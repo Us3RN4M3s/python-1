@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # https://youtu.be/FNu9cAarB18
+
 
 # # NumPy
 
