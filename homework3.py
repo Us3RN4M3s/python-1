@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # https://youtu.be/HDUi-jIGjaQ
 
 # # Load Data
 
