@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # https://youtu.be/qjmfQf4ntRU
+
 
 # In[1]:
 
