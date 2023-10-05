@@ -1,0 +1,32 @@
+this repository is mainly the result of neural networks in python which is involves some basic python practice and after that i begin with a basic understand of neural networks 
+
+topics covered include
+    - basic python fundamentals
+
+
+    - stacked dense neural networks
+
+
+    - gradient tape and creating my own loss function to identify how the network would improve
+
+
+    - creating a neural network from scratch using gradient tape and densely stacked layers 
+
+    - early stopping, simpler model, used to prevent memorizing the data and allow for better generalization 
+
+    - convolutional neural networks or deep neural networks, separable convolutional layers using relu activation functions, separable layers and learning spatial features 
+
+
+    - adding a residual connection which would feed the original data back into a neural network after it has started training to remind it what it was originally as neural networks after training tend to 
+  work like telephone game where the definition changed as it is passed onto the next layer, residual connection can enhance the performance of a model. 
+
+    - batch normalization works as an amplifier and helps retain some of the data that was lost in the gradient 
+
+    - time series data on the neural network such as a model that predicts the weather based on yearly data 
+
+    - using binary ngram and vectorization to allow for a neural network to translate and understand text, also using an embedded layer and masking
+  
+    
+    - transformer architecture to translate english to spanish model using text vectorization and using a recursive neural network and GRU based decoder and end-to-end model
+using a transformer decoder to decode the text. also using positional embedding layer to learn the positions and call to give forward pass to decoder and compute 
+the mask 
